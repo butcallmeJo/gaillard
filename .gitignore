@@ -1,7 +1,5 @@
-# Ignore everything:
 *
 
-# Don't ignore the following:
 !.gitignore
 !about.html
 !home.css
