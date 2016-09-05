@@ -44,6 +44,21 @@ body {
     text-shadow: 0 1px 3px rgba(0, 0, 0, .5);
 }
 
+/* Side photos sections*/
+.top-side-padding {
+    margin-top: 12em;
+}
+.side-pics {
+    padding: 10px;
+    text-align: justify;
+    height: 90%;
+}
+
+.row {
+    height: 20em;
+}
+
+
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 
 .site-wrapper {
