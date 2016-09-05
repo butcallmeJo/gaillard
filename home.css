@@ -45,6 +45,19 @@ body {
 }
 
 /* Side photos sections*/
+
+@media (max-width: 992px) {
+    .top-side-padding {
+        display: none;
+    }
+    .side-pics {
+        height: 75%;
+    }
+    .left-photos {
+        display: none;
+    }    
+}
+
 .top-side-padding {
     margin-top: 12em;
 }
